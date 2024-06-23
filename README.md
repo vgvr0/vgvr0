@@ -41,6 +41,55 @@
 | A Python script for downloading TikTok videos using the yt-dlp library. Easily download your favorite TikTok videos and save them to your specified directory. | A web scraping various from an online supermarket (elcorteingles.es) and saving product details into a CSV file | This repository contains examples of the main categories of SQL functions, including aggregation functions, string functions, date and time functions, comparison functions, logical functions, conversion functions, and system functions. |
 | [Repo](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repo](https://github.com/vgvr0/el-corte-ingles-supermarket-scraper) | [Repo](https://github.com/vgvr0/SQL-Complete-Reference-Basic-Intermediate-Advanced) |
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 33.33%; vertical-align: top;">
+      <h3>YouTube Video Downloader</h3>
+      <img src="https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg" alt="yt-dlp Logo" style="width: 100%;">
+      <h4>YouTube Video Downloader with `yt-dlp`</h4>
+      <p>YouTube-DL-Pro is a powerful and flexible Python script for downloading videos from YouTube and YouTube Shorts. Built on the robust yt-dlp library.</p>
+      <a href="https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader">Repo</a>
+    </td>
+    <td style="width: 33.33%; vertical-align: top;">
+      <h3>Supermarket Mercadona Scraper</h3>
+      <img src="https://edicomgroup.es/dam/jcr:1d5f0f0a-a59b-46a0-88e9-3f653ba3fc3c/mercadona_integration.png" alt="Mercadona Logo" style="width: 100%;">
+      <h4>Supermarket Mercadona Scraper</h4>
+      <p>Supermarket-Mercadona-Scraper is an efficient and user-friendly tool that automatically scrapes and organizes product data from the Mercadona website, enabling you to analyze and compare product prices and features in real-time.</p>
+      <a href="https://github.com/vgvr0/supermarket-mercadona-scraper">Repo</a>
+    </td>
+    <td style="width: 33.33%; vertical-align: top;">
+      <h3>Predicting the market value</h3>
+      <img src="https://github.com/vgvr0/Market_value_football_players_24/raw/main/Top_2024.jpg" alt="Top Value Logo" style="width: 100%;">
+      <h4>Predicting the market value</h4>
+      <p>Predicting the market value of football players in 2024 using linear regression and neural networks.</p>
+      <a href="https://github.com/vgvr0/Market_value_football_players_24">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 33.33%; vertical-align: top;">
+      <h3>TikTok Video Downloader</h3>
+      <img src="https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp/raw/main/LogoTikTok.png" alt="yt-dlp Logo" style="width: 100%;">
+      <h4>TikTok Video Downloader using `yt-dlp`</h4>
+      <p>A Python script for downloading TikTok videos using the yt-dlp library. Easily download your favorite TikTok videos and save them to your specified directory.</p>
+      <a href="https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader">Repo</a>
+    </td>
+    <td style="width: 33.33%; vertical-align: top;">
+      <h3>Supermarket El Corte Inglés Scraper</h3>
+      <img src="https://www.marcasrenombradas.com/wp-content/uploads/2011/08/elcorteingles.jpg" alt="El Corte Ingles Logo" style="width: 100%;">
+      <h4>Supermarket El Corte Inglés Scraper</h4>
+      <p>A web scraping tool for an online supermarket (elcorteingles.es) and saving product details into a CSV file.</p>
+      <a href="https://github.com/vgvr0/el-corte-ingles-supermarket-scraper">Repo</a>
+    </td>
+    <td style="width: 33.33%; vertical-align: top;">
+      <h3>SQL Complete Referenced</h3>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" style="width: 100%;">
+      <h4>SQL Complete Reference</h4>
+      <p>This repository contains examples of the main categories of SQL functions, including aggregation functions, string functions, date and time functions, comparison functions, logical functions, conversion functions, and system functions.</p>
+      <a href="https://github.com/vgvr0/SQL-Complete-Reference-Basic-Intermediate-Advanced">Repo</a>
+    </td>
+  </tr>
+</table>
+
 <!---
 
 ## Proyectos Destacados
