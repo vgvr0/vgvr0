@@ -30,8 +30,8 @@
 | YouTube Video Downloader | Supermarket Mercadona Scraper | Proyecto 3 |
 |------------|------------|------------|
 | ![yt-dlp Logo](https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg) | ![Mercadona Logo](https://edicomgroup.es/dam/jcr:1d5f0f0a-a59b-46a0-88e9-3f653ba3fc3c/mercadona_integration.png) | ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
-| **YouTube Video Downloader with `yt-dlp`** | **Análisis de Datos con Pandas** | **Proyecto 3** |
-| YouTube-DL-Pro is a powerful and flexible Python script for downloading videos from YouTube and YouTube Shorts. Built on the robust yt-dlp library. | Un proyecto de análisis de datos utilizando la biblioteca Pandas en Python. | Descripción del Proyecto 3. |
+| **YouTube Video Downloader with `yt-dlp`** | **Supermarket Mercadona Scraper** | **Proyecto 3** |
+| YouTube-DL-Pro is a powerful and flexible Python script for downloading videos from YouTube and YouTube Shorts. Built on the robust yt-dlp library. | Supermarket-Mercadona-Scraper is an efficient and user-friendly tool that automatically scrapes and organizes product data from the Mercadona website, enabling you to analyze and compare product prices and features in real-time. | Descripción del Proyecto 3. |
 | [Repositorio](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repositorio](https://github.com/vgvr0/supermarket-mercadona-scraper) | [Repositorio](https://github.com/tu-usuario/proyecto3) |
 
 
