@@ -29,11 +29,11 @@
 ## Proyectos Destacados
 
 ### Proyecto 1: Descargador de Videos de YouTube
-![yt-dlp Logo](https://github.com/yt-dlp/yt-dlp/blob/master/devscripts/logo.ico)
+![yt-dlp Logo](https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg)
 
 - **Descripción**: Un script en Python para descargar videos de YouTube utilizando `yt-dlp`.
 - **Tecnologías**: Python, yt-dlp
-- **Repositorio**: [Enlace al repositorio](https://github.com/tu-usuario/proyecto1)
+- **Repositorio**: [Enlace al repositorio](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader)
 - 
 <!---
 ![Cover](https://media.licdn.com/dms/image/C5612AQFxPhDAkRB9wA/article-cover_image-shrink_600_2000/0/1520150575249?e=2147483647&v=beta&t=vmpdAjcQCKw2q7U307GrfkP_Xi2r_T97Dxk8MnqM_tE)
