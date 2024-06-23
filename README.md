@@ -34,6 +34,13 @@
 - **Descripción**: Un script en Python para descargar videos de YouTube utilizando `yt-dlp`.
 - **Tecnologías**: Python, yt-dlp
 - **Repositorio**: [Enlace al repositorio](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader)
+
+### Proyecto 2: Análisis de Datos con Pandas
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+- **Descripción**: Un proyecto de análisis de datos utilizando la biblioteca Pandas en Python.
+- **Tecnologías**: Python, Pandas
+- **Repositorio**: [Enlace al repositorio](https://github.com/tu-usuario/proyecto2)
 - 
 <!---
 ![Cover](https://media.licdn.com/dms/image/C5612AQFxPhDAkRB9wA/article-cover_image-shrink_600_2000/0/1520150575249?e=2147483647&v=beta&t=vmpdAjcQCKw2q7U307GrfkP_Xi2r_T97Dxk8MnqM_tE)
