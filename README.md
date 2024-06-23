@@ -1,3 +1,5 @@
+![Cover](https://media.licdn.com/dms/image/C5612AQFxPhDAkRB9wA/article-cover_image-shrink_600_2000/0/1520150575249?e=2147483647&v=beta&t=vmpdAjcQCKw2q7U307GrfkP_Xi2r_T97Dxk8MnqM_tE)
+
 - 👋 Hi there! I'm @vgvr0.
 - 👀 My interests span across artificial intelligence, sports like Padel or Football, data science, and machine learning.
 - 🌱 Currently, I'm delving deep into the realms of data science, machine learning, and deep learning techniques as part of my master's program.
