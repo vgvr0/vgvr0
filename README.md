@@ -17,7 +17,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-1384F3?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 <!---
 ![Cover](https://media.licdn.com/dms/image/C5612AQFxPhDAkRB9wA/article-cover_image-shrink_600_2000/0/1520150575249?e=2147483647&v=beta&t=vmpdAjcQCKw2q7U307GrfkP_Xi2r_T97Dxk8MnqM_tE)
 vgvr0/vgvr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
