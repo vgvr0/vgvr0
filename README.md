@@ -32,7 +32,7 @@
 | ![yt-dlp Logo](https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg) | ![Mercadona Logo](https://edicomgroup.es/dam/jcr:1d5f0f0a-a59b-46a0-88e9-3f653ba3fc3c/mercadona_integration.png) | ![Top Value Logo](https://github.com/vgvr0/Market_value_football_players_24/raw/main/Top_2024.jpg) |
 | **YouTube Video Downloader with `yt-dlp`** | **Supermarket Mercadona Scraper** | **Predicting the market value** |
 | YouTube-DL-Pro is a powerful and flexible Python script for downloading videos from YouTube and YouTube Shorts. Built on the robust yt-dlp library. | Supermarket-Mercadona-Scraper is an efficient and user-friendly tool that automatically scrapes and organizes product data from the Mercadona website, enabling you to analyze and compare product prices and features in real-time. | Predicting the market value of football players in 2024 using linear regression and neural networks. |
-| [Repositorio](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repositorio](https://github.com/vgvr0/supermarket-mercadona-scraper) | [Repositorio](https://github.com/vgvr0/Market_value_football_players_24) |
+| [Repo](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repo](https://github.com/vgvr0/supermarket-mercadona-scraper) | [Repo](https://github.com/vgvr0/Market_value_football_players_24) |
 
 
 
