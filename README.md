@@ -41,6 +41,8 @@
 | A Python script for downloading TikTok videos using the yt-dlp library. Easily download your favorite TikTok videos and save them to your specified directory. | A web scraping various from an online supermarket (elcorteingles.es) and saving product details into a CSV file | This repository contains examples of the main categories of SQL functions, including aggregation functions, string functions, date and time functions, comparison functions, logical functions, conversion functions, and system functions. |
 | [Repo](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repo](https://github.com/vgvr0/el-corte-ingles-supermarket-scraper) | [Repo](https://github.com/vgvr0/SQL-Complete-Reference-Basic-Intermediate-Advanced) |
 
+<!---
+
 <table style="width: 100%;">
   <tr>
     <td style="width: 33.33%; vertical-align: top;">
@@ -90,7 +92,7 @@
   </tr>
 </table>
 
-<!---
+
 
 ## Proyectos Destacados
 
