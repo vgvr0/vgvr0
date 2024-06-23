@@ -38,7 +38,7 @@
 |------------|------------|------------|
 | ![yt-dlp Logo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp/raw/main/LogoTikTok.png) | ![El Corte Ingles Logo](https://www.marcasrenombradas.com/wp-content/uploads/2011/08/elcorteingles.jpg) | ![Top Value Logo](https://github.com/vgvr0/Market_value_football_players_24/raw/main/Top_2024.jpg) |
 | **TikTok Video Downloader using `yt-dlp`** | **Supermarket Mercadona Scraper** | **Predicting the market value** |
-| A Python script for downloading TikTok videos using the yt-dlp library. Easily download your favorite TikTok videos and save them to your specified directory. | Supermarket-Mercadona-Scraper is an efficient and user-friendly tool that automatically scrapes and organizes product data from the Mercadona website, enabling you to analyze and compare product prices and features in real-time. | Predicting the market value of football players in 2024 using linear regression and neural networks. |
+| A Python script for downloading TikTok videos using the yt-dlp library. Easily download your favorite TikTok videos and save them to your specified directory. | A web scraping various from an online supermarket (elcorteingles.es) and saving product details into a CSV file | Predicting the market value of football players in 2024 using linear regression and neural networks. |
 | [Repo](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repo](https://github.com/vgvr0/el-corte-ingles-supermarket-scraper) | [Repo](https://github.com/vgvr0/Market_value_football_players_24) |
 
 
