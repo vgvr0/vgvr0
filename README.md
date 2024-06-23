@@ -39,7 +39,7 @@
 | ![yt-dlp Logo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp/raw/main/LogoTikTok.png) | ![El Corte Ingles Logo](https://www.marcasrenombradas.com/wp-content/uploads/2011/08/elcorteingles.jpg) | ![Top Value Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) |
 | **TikTok Video Downloader using `yt-dlp`** | **Supermarket Mercadona Scraper** | **Predicting the market value** |
 | A Python script for downloading TikTok videos using the yt-dlp library. Easily download your favorite TikTok videos and save them to your specified directory. | A web scraping various from an online supermarket (elcorteingles.es) and saving product details into a CSV file | This repository contains examples of the main categories of SQL functions, including aggregation functions, string functions, date and time functions, comparison functions, logical functions, conversion functions, and system functions. |
-| [Repo](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repo](https://github.com/vgvr0/el-corte-ingles-supermarket-scraper) | [Repo]([https://github.com/vgvr0/Market_value_football_players_24](https://github.com/vgvr0/SQL-Complete-Reference-Basic-Intermediate-Advanced)) |
+| [Repo](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repo](https://github.com/vgvr0/el-corte-ingles-supermarket-scraper) | [Repo](https://github.com/vgvr0/SQL-Complete-Reference-Basic-Intermediate-Advanced)) |
 
 
 
