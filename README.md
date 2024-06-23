@@ -1,6 +1,6 @@
 
 - 👋 Hi there! I'm @vgvr0.
-- 👀 My interests span across artificial intelligence, sports like Padel or Football, data science, and machine learning.
+- 👀 My interests span across artificial intelligence, data science, machine learning and sports like Padel or Football.
 - 🌱 Currently, I'm delving deep into the realms of data science, machine learning, and deep learning techniques as part of my master's program.
 - 💞️ I'm eager to collaborate on projects centered around machine learning, image recognition, natural language processing (NLP), web scraping, and any other captivating data science endeavors.
 - 📫 You can reach out to me here.
