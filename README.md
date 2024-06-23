@@ -34,10 +34,10 @@
 | YouTube-DL-Pro is a powerful and flexible Python script for downloading videos from YouTube and YouTube Shorts. Built on the robust yt-dlp library. | Supermarket-Mercadona-Scraper is an efficient and user-friendly tool that automatically scrapes and organizes product data from the Mercadona website, enabling you to analyze and compare product prices and features in real-time. | Predicting the market value of football players in 2024 using linear regression and neural networks. |
 | [Repo](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repo](https://github.com/vgvr0/supermarket-mercadona-scraper) | [Repo](https://github.com/vgvr0/Market_value_football_players_24) |
 
-| TikTok Video Downloader  | Supermarket Mercadona Scraper | SQL Complete Referenced |
+| TikTok Video Downloader  | Supermarket ECI Scraper | SQL Complete Referenced |
 |------------|------------|------------|
-| ![yt-dlp Logo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp/raw/main/LogoTikTok.png) | ![El Corte Ingles Logo](https://www.marcasrenombradas.com/wp-content/uploads/2011/08/elcorteingles.jpg) | ![Top Value Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) |
-| **TikTok Video Downloader using `yt-dlp`** | **Supermarket Mercadona Scraper** | **Predicting the market value** |
+| ![yt-dlp Logo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp/raw/main/LogoTikTok.png) | ![El Corte Ingles Logo](https://www.marcasrenombradas.com/wp-content/uploads/2011/08/elcorteingles.jpg) | ![Top Value Logo](https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg) |
+| **TikTok Video Downloader using `yt-dlp`** | **Supermarket ECI Scraper** | **Predicting the market value** |
 | A Python script for downloading TikTok videos using the yt-dlp library. Easily download your favorite TikTok videos and save them to your specified directory. | A web scraping various from an online supermarket (elcorteingles.es) and saving product details into a CSV file | This repository contains examples of the main categories of SQL functions, including aggregation functions, string functions, date and time functions, comparison functions, logical functions, conversion functions, and system functions. |
 | [Repo](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repo](https://github.com/vgvr0/el-corte-ingles-supermarket-scraper) | [Repo](https://github.com/vgvr0/SQL-Complete-Reference-Basic-Intermediate-Advanced) |
 
