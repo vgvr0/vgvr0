@@ -29,7 +29,7 @@
 
 | YouTube Video Downloader | Supermarket Mercadona Scraper | Proyecto 3 |
 |------------|------------|------------|
-| ![yt-dlp Logo](https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg) | ![Mercadona Logo](./LogoMercadona.png) | ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
+| ![yt-dlp Logo](https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg) | ![Mercadona Logo](https://edicomgroup.es/dam/jcr:1d5f0f0a-a59b-46a0-88e9-3f653ba3fc3c/mercadona_integration.png) | ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
 | **Descargador de Videos de YouTube** | **Análisis de Datos con Pandas** | **Proyecto 3** |
 | Un script en Python para descargar videos de YouTube utilizando `yt-dlp`. | Un proyecto de análisis de datos utilizando la biblioteca Pandas en Python. | Descripción del Proyecto 3. |
 | [Repositorio](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repositorio](https://github.com/vgvr0/supermarket-mercadona-scraper) | [Repositorio](https://github.com/tu-usuario/proyecto3) |
