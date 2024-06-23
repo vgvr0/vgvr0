@@ -27,13 +27,16 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
 
 
-| Proyecto 1 | Proyecto 2 | Proyecto 3 |
+| YouTube-Video-Downloader | Proyecto 2 | Proyecto 3 |
 |------------|------------|------------|
-| ![yt-dlp Logo](https://github.com/yt-dlp/yt-dlp/blob/master/devscripts/logo.ico) | ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) | ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
+| ![yt-dlp Logo](https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg) | ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) | ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
 | **Descargador de Videos de YouTube** | **Análisis de Datos con Pandas** | **Proyecto 3** |
 | Un script en Python para descargar videos de YouTube utilizando `yt-dlp`. | Un proyecto de análisis de datos utilizando la biblioteca Pandas en Python. | Descripción del Proyecto 3. |
-| [Repositorio](https://github.com/tu-usuario/proyecto1) | [Repositorio](https://github.com/tu-usuario/proyecto2) | [Repositorio](https://github.com/tu-usuario/proyecto3) |
+| [Repositorio](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repositorio](https://github.com/tu-usuario/proyecto2) | [Repositorio](https://github.com/tu-usuario/proyecto3) |
 
+
+
+<!---
 
 ## Proyectos Destacados
 
@@ -51,7 +54,7 @@
 - **Tecnologías**: Python, Pandas
 - **Repositorio**: [Enlace al repositorio](https://github.com/tu-usuario/proyecto2)
 - 
-<!---
+
 ![Cover](https://media.licdn.com/dms/image/C5612AQFxPhDAkRB9wA/article-cover_image-shrink_600_2000/0/1520150575249?e=2147483647&v=beta&t=vmpdAjcQCKw2q7U307GrfkP_Xi2r_T97Dxk8MnqM_tE)
 vgvr0/vgvr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
