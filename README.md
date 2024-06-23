@@ -26,6 +26,15 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=FFFFFF&style=for-the-badge)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
 
+## Proyectos Destacados
+
+### Proyecto 1: Descargador de Videos de YouTube
+![yt-dlp Logo](https://github.com/yt-dlp/yt-dlp/blob/master/devscripts/logo.ico)
+
+- **Descripción**: Un script en Python para descargar videos de YouTube utilizando `yt-dlp`.
+- **Tecnologías**: Python, yt-dlp
+- **Repositorio**: [Enlace al repositorio](https://github.com/tu-usuario/proyecto1)
+- 
 <!---
 ![Cover](https://media.licdn.com/dms/image/C5612AQFxPhDAkRB9wA/article-cover_image-shrink_600_2000/0/1520150575249?e=2147483647&v=beta&t=vmpdAjcQCKw2q7U307GrfkP_Xi2r_T97Dxk8MnqM_tE)
 vgvr0/vgvr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
