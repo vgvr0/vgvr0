@@ -15,9 +15,13 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-1384F3?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=FFFFFF&style=for-the-badge)
+
 <!---
 ![Cover](https://media.licdn.com/dms/image/C5612AQFxPhDAkRB9wA/article-cover_image-shrink_600_2000/0/1520150575249?e=2147483647&v=beta&t=vmpdAjcQCKw2q7U307GrfkP_Xi2r_T97Dxk8MnqM_tE)
 vgvr0/vgvr0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
