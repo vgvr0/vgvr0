@@ -26,6 +26,15 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=FFFFFF&style=for-the-badge)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
 
+
+| Proyecto 1 | Proyecto 2 | Proyecto 3 |
+|------------|------------|------------|
+| ![yt-dlp Logo](https://github.com/yt-dlp/yt-dlp/blob/master/devscripts/logo.ico) | ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) | ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
+| **Descargador de Videos de YouTube** | **Análisis de Datos con Pandas** | **Proyecto 3** |
+| Un script en Python para descargar videos de YouTube utilizando `yt-dlp`. | Un proyecto de análisis de datos utilizando la biblioteca Pandas en Python. | Descripción del Proyecto 3. |
+| [Repositorio](https://github.com/tu-usuario/proyecto1) | [Repositorio](https://github.com/tu-usuario/proyecto2) | [Repositorio](https://github.com/tu-usuario/proyecto3) |
+
+
 ## Proyectos Destacados
 
 ### Proyecto 1: Descargador de Videos de YouTube
