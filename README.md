@@ -6,6 +6,8 @@
 - 📫 You can reach out to me here.
 - ⚡ Fun fact: When I'm not immersed in the world of data, you'll find me either on the field playing sports or passionately exploring the latest technologies and their diverse applications.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vgvr0)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
