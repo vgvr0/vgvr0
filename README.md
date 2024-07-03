@@ -6,6 +6,7 @@
 - 📫 You can reach out to me here.
 - ⚡ Fun fact: When I'm not immersed in the world of data, you'll find me either on the field playing sports or passionately exploring the latest technologies and their diverse applications.
 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
@@ -25,7 +26,23 @@
 ![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=FFFFFF&style=for-the-badge)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
-
+![Hadoop](ruta/a/hadoop-logo.png)
+![Docker](ruta/a/docker-logo.png)
+![Spark](ruta/a/spark-logo.png)
+![Scala](ruta/a/scala-logo.png)
+![DBbeaver](ruta/a/dbbeaver-logo.png)
+![D3](ruta/a/d3-logo.png)
+![PowerBI](ruta/a/powerbi-logo.png)
+![Python](ruta/a/python-logo.png)
+![R](ruta/a/r-logo.png)
+![NumPy](ruta/a/numpy-logo.png)
+![Pandas](ruta/a/pandas-logo.png)
+![Jupyter](ruta/a/jupyter-logo.png)
+![PostgreSQL](ruta/a/postgresql-logo.png)
+![Keras](ruta/a/keras-logo.png)
+![SAS](ruta/a/sas-logo.png)
+![Google BigQuery](ruta/a/bigquery-logo.png)
+![TensorFlow](ruta/a/tensorflow-logo.png)
 
 | YouTube Video Downloader | Supermarket Mercadona Scraper | Predicting the market value |
 |------------|------------|------------|
