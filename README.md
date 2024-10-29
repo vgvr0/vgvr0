@@ -82,6 +82,27 @@
 
 </div>
 
+| YouTube Video Downloader | Supermarket Mercadona Scraper | Predicting the market value |
+|------------|------------|------------|
+| ![yt-dlp Logo](https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg) | ![Mercadona Logo](https://edicomgroup.es/dam/jcr:1d5f0f0a-a59b-46a0-88e9-3f653ba3fc3c/mercadona_integration.png) | ![Top Value Logo](https://github.com/vgvr0/Market_value_football_players_24/raw/main/Top_2024.jpg) |
+| **YouTube Video Downloader with `yt-dlp`** | **Supermarket Mercadona Scraper** | **Predicting the market value** |
+| YouTube-DL-Pro is a powerful and flexible Python script for downloading videos from YouTube and YouTube Shorts. Built on the robust yt-dlp library. | Supermarket-Mercadona-Scraper is an efficient and user-friendly tool that automatically scrapes and organizes product data from the Mercadona website, enabling you to analyze and compare product prices and features in real-time. | Predicting the market value of football players in 2024 using linear regression and neural networks. |
+| [Repo](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repo](https://github.com/vgvr0/supermarket-mercadona-scraper) | [Repo](https://github.com/vgvr0/Market_value_football_players_24) |
+
+| TikTok Video Downloader  | Supermarket ECI Scraper | SQL Complete Referenced |
+|------------|------------|------------|
+| ![yt-dlp Logo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp/raw/main/LogoTikTok.png) | ![El Corte Ingles Logo](https://www.marcasrenombradas.com/wp-content/uploads/2011/08/elcorteingles.jpg) | ![Top Value Logo](https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg) |
+| **TikTok Video Downloader using `yt-dlp`** | **Supermarket ECI Scraper** | **SQL Complete Reference** |
+| A Python script for downloading TikTok videos using the yt-dlp library. Easily download your favorite TikTok videos and save them to your specified directory. | A web scraping various from an online supermarket (elcorteingles.es) and saving product details into a CSV file | Examples of the main categories of SQL functions, including aggregation functions... |
+| [Repo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp) | [Repo](https://github.com/vgvr0/el-corte-ingles-supermarket-scraper) | [Repo](https://github.com/vgvr0/SQL-Complete-Reference-Basic-Intermediate-Advanced) |
+
+| Correos Package Tracking |
+|------------|
+| ![Correos Logo](https://github.com/vgvr0/correos-package-tracking/raw/main/correos-logo.png) |
+| **Correos Package Tracking System** |
+| A Python-based package tracking system for Correos (Spanish Postal Service). Automates tracking multiple packages and provides real-time status updates. |
+| [Repo](https://github.com/vgvr0/correos-package-tracking) |
+
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vgvr0&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgvr0&layout=compact&theme=dracula)
