@@ -7,14 +7,10 @@
 
 ### 📊 GitHub Statistics
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vgvr0&theme=github)
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vgvr0&show_icons=true&theme=default"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgvr0&layout=compact&theme=default"/>
 </p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vgvr0&theme=default)
 
 ### 🛠️ Technologies & Tools
 
