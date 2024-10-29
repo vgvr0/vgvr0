@@ -56,12 +56,6 @@
 | YouTube-DL-Pro is a powerful and flexible Python script for downloading videos from YouTube and YouTube Shorts. Built on the robust yt-dlp library. | Supermarket-Mercadona-Scraper is an efficient and user-friendly tool that automatically scrapes and organizes product data from the Mercadona website, enabling you to analyze and compare product prices and features in real-time. | Predicting the market value of football players in 2024 using linear regression and neural networks. |
 | [Repo](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repo](https://github.com/vgvr0/supermarket-mercadona-scraper) | [Repo](https://github.com/vgvr0/Market_value_football_players_24) |
 
-| Correos Tracking Bot | TikTok Video Downloader  | Supermarket ECI Scraper |
-|------------|------------|------------|
-| <img src="https://github.com/vgvr0/correos-tracking-bot/blob/main/images/CorreosLogo.png" width="100" style="display: block; margin: auto;"> | <img src="https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp/raw/main/LogoTikTok.png" width="100" style="display: block; margin: auto;"> | <img src="https://www.marcasrenombradas.com/wp-content/uploads/2011/08/elcorteingles.jpg" width="100" style="display: block; margin: auto;"> |
-| **Correos Tracking Bot** | **TikTok Video Downloader using `yt-dlp`** | **Supermarket ECI Scraper** |
-| A Python-based Telegram bot for tracking Correos (Spanish Postal Service) packages. Automates tracking multiple packages and provides real-time status updates through Telegram. | Download TikTok videos easily with `yt-dlp` and Python. | Scrape product data from El Corte Inglés supermarket. |
-| [Repo](https://github.com/vgvr0/correos-tracking-bot) | [Repo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp) | [Repo](https://github.com/vgvr0/el-corte-ingles-supermarket-scraper) |
 
 | Correos Tracking Bot | TikTok Video Downloader | Supermarket ECI Scraper |
 |:-------------------:|:-----------------------:|:-----------------------:|
