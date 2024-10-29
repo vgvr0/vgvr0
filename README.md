@@ -48,39 +48,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-1C7BA5?style=for-the-badge&logo=sas&logoColor=white)
 
-### 🚀 Featured Projects
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-
-<div>
-<h4>📦 Correos Package Tracking</h4>
-<img src="https://github.com/vgvr0/correos-package-tracking/raw/main/correos-logo.png" width="300">
-<p>A Python-based package tracking system for Correos (Spanish Postal Service). Automates tracking multiple packages and provides real-time status updates.</p>
-<a href="https://github.com/vgvr0/correos-package-tracking">View Repository</a>
-</div>
-
-<div>
-<h4>📹 YouTube Video Downloader</h4>
-<img src="https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg" width="300">
-<p>Advanced YouTube video downloader built with yt-dlp library, supporting various formats and quality options.</p>
-<a href="https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader">View Repository</a>
-</div>
-
-<div>
-<h4>🛒 Mercadona Scraper</h4>
-<img src="https://edicomgroup.es/dam/jcr:1d5f0f0a-a59b-46a0-88e9-3f653ba3fc3c/mercadona_integration.png" width="300">
-<p>Real-time product data scraper for Mercadona supermarket, enabling price analysis and comparison.</p>
-<a href="https://github.com/vgvr0/supermarket-mercadona-scraper">View Repository</a>
-</div>
-
-<div>
-<h4>⚽ Football Market Value Predictor</h4>
-<img src="https://github.com/vgvr0/Market_value_football_players_24/raw/main/Top_2024.jpg" width="300">
-<p>ML model predicting football player market values using linear regression and neural networks.</p>
-<a href="https://github.com/vgvr0/Market_value_football_players_24">View Repository</a>
-</div>
-
-</div>
 
 | YouTube Video Downloader | Supermarket Mercadona Scraper | Predicting the market value |
 |------------|------------|------------|
@@ -98,10 +65,10 @@
 
 | Correos Package Tracking |
 |------------|
-| ![Correos Logo](https://github.com/vgvr0/correos-package-tracking/raw/main/correos-logo.png) |
+| ![Correos Logo](https://github.com/vgvr0/correos-tracking-bot/tree/main/images/CorreosPortada.png) |
 | **Correos Package Tracking System** |
 | A Python-based package tracking system for Correos (Spanish Postal Service). Automates tracking multiple packages and provides real-time status updates. |
-| [Repo](https://github.com/vgvr0/correos-package-tracking) |
+| [Repo](https://github.com/vgvr0/correos-tracking-bot) |
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vgvr0&show_icons=true&theme=dracula)
