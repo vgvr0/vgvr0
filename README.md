@@ -56,19 +56,22 @@
 | YouTube-DL-Pro is a powerful and flexible Python script for downloading videos from YouTube and YouTube Shorts. Built on the robust yt-dlp library. | Supermarket-Mercadona-Scraper is an efficient and user-friendly tool that automatically scrapes and organizes product data from the Mercadona website, enabling you to analyze and compare product prices and features in real-time. | Predicting the market value of football players in 2024 using linear regression and neural networks. |
 | [Repo](https://github.com/vgvr0/YouTube-DL-Pro-Advanced-YouTube-Video-Downloader) | [Repo](https://github.com/vgvr0/supermarket-mercadona-scraper) | [Repo](https://github.com/vgvr0/Market_value_football_players_24) |
 
-| TikTok Video Downloader  | Supermarket ECI Scraper | SQL Complete Referenced |
+| Correos Tracking Bot | TikTok Video Downloader  | Supermarket ECI Scraper |
 |------------|------------|------------|
-| ![yt-dlp Logo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp/raw/main/LogoTikTok.png) | ![El Corte Ingles Logo](https://www.marcasrenombradas.com/wp-content/uploads/2011/08/elcorteingles.jpg) | ![Top Value Logo](https://github.com/vgvr0/correos-tracking-bot/blob/main/images/CorreosLogo.png) |
+| ![Correos Logo](https://github.com/vgvr0/correos-tracking-bot/blob/main/images/CorreosLogo.png) | ![yt-dlp Logo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp/raw/main/LogoTikTok.png) | ![El Corte Ingles Logo](https://www.marcasrenombradas.com/wp-content/uploads/2011/08/elcorteingles.jpg) |
+| **Correos Tracking Bot** | **TikTok Video Downloader using `yt-dlp`** | **Supermarket ECI Scraper** |
+| A Python-based Telegram bot for tracking Correos (Spanish Postal Service) packages. Automates tracking multiple packages and provides real-time status updates through Telegram. | Download TikTok videos easily with `yt-dlp` and Python. | Scrape product data from El Corte Inglés supermarket. |
+| [Repo](https://github.com/vgvr0/correos-tracking-bot) | [Repo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp) | [Repo](https://github.com/vgvr0/el-corte-ingles-supermarket-scraper) |
+
+
+| TikTok Video Downloader  | Supermarket ECI Scraper | Correos Tracking Bot |
+|------------|------------|------------|
+| ![yt-dlp Logo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp/raw/main/LogoTikTok.png) | ![El Corte Ingles Logo](https://www.marcasrenombradas.com/wp-content/uploads/2011/08/elcorteingles.jpg) | ![Correos Logo](https://github.com/vgvr0/correos-tracking-bot/blob/main/images/CorreosLogo.png) |
 | **TikTok Video Downloader using `yt-dlp`** | **Supermarket ECI Scraper** | **Correos Tracking Bot** |
 | A Python-based Telegram bot for tracking Correos (Spanish Postal Service) packages. Automates tracking multiple packages and provides real-time status updates through Telegram. |
 | [Repo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp) | [Repo](https://github.com/vgvr0/el-corte-ingles-supermarket-scraper) | [Repo](https://github.com/vgvr0/correos-tracking-bot) |
 
-| Correos Tracking Bot |
-|------------|
-| ![Correos Logo](https://github.com/vgvr0/correos-tracking-bot/blob/main/images/CorreosLogo.png) |
-| **Correos Package Tracking Bot** |
-| A Python-based Telegram bot for tracking Correos (Spanish Postal Service) packages. Automates tracking multiple packages and provides real-time status updates through Telegram. |
-| [Repo](https://github.com/vgvr0/correos-tracking-bot) |
+
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vgvr0&show_icons=true&theme=dracula)
