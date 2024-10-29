@@ -63,11 +63,11 @@
 | A Python script for downloading TikTok videos using the yt-dlp library. Easily download your favorite TikTok videos and save them to your specified directory. | A web scraping various from an online supermarket (elcorteingles.es) and saving product details into a CSV file | Examples of the main categories of SQL functions, including aggregation functions... |
 | [Repo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp) | [Repo](https://github.com/vgvr0/el-corte-ingles-supermarket-scraper) | [Repo](https://github.com/vgvr0/SQL-Complete-Reference-Basic-Intermediate-Advanced) |
 
-| Correos Package Tracking |
+| Correos Tracking Bot |
 |------------|
-| ![Correos Logo](https://github.com/vgvr0/correos-tracking-bot/tree/main/images/CorreosPortada.png) |
-| **Correos Package Tracking System** |
-| A Python-based package tracking system for Correos (Spanish Postal Service). Automates tracking multiple packages and provides real-time status updates. |
+| ![Correos Logo](https://github.com/vgvr0/correos-tracking-bot/blob/main/images/CorreosLogo.png) |
+| **Correos Package Tracking Bot** |
+| A Python-based Telegram bot for tracking Correos (Spanish Postal Service) packages. Automates tracking multiple packages and provides real-time status updates through Telegram. |
 | [Repo](https://github.com/vgvr0/correos-tracking-bot) |
 
 ### 📊 GitHub Stats
