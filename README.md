@@ -5,13 +5,6 @@
 - 📫 You can reach out to me here.
 - ⚡ Fun fact: When I'm not immersed in the world of data, you'll find me either on the field playing sports or passionately exploring the latest technologies and their diverse applications.
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vgvr0&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgvr0&layout=compact&theme=default"/>
-</p>
-
 ### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,9 +65,13 @@
 | [Repo](https://github.com/vgvr0/correos-tracking-bot) | [Repo](https://github.com/vgvr0/TikTok-Video-Downloader-using-Python-and-yt-dlp) | [Repo](https://github.com/vgvr0/el-corte-ingles-supermarket-scraper) |
 
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vgvr0&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgvr0&layout=compact&theme=dracula)
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vgvr0&show_icons=true&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgvr0&layout=compact&theme=default"/>
+</p>
+
 
 <!---
 
