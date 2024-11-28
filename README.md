@@ -7,7 +7,7 @@
 - ⚡ Fun fact: When I'm not immersed in the world of data, you'll find me either on the field playing sports or passionately exploring the latest technologies and their diverse applications.
 --->
 
-🎓 Physics & Data Science Professional | 🤖 AI/ML Engineer & Researcher | 🌟 Building the Future with Technology
+🎓 Physics & Data Science Professional | 🤖 AI/ML Engineer | 🌟 Building the Future with Technology
 
 Physicist turned Data Scientist, merging scientific rigor with cutting-edge AI solutions. Passionate about leveraging ML/DL for real-world impact. 
 
