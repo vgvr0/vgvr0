@@ -7,6 +7,10 @@
 - ⚡ Fun fact: When I'm not immersed in the world of data, you'll find me either on the field playing sports or passionately exploring the latest technologies and their diverse applications.
 --->
 
+🎓 Physics & Data Science Professional | 🤖 AI/ML Engineer & Researcher | 🌟 Building the Future with Technology
+
+Physicist turned Data Scientist, merging scientific rigor with cutting-edge AI solutions. Passionate about leveraging ML/DL for real-world impact. 
+
 ### 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
