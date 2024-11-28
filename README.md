@@ -1,6 +1,11 @@
-# ¡Hola! 👋 
-
-Soy Data Engineer especializado en soluciones de Machine Learning y MLOps. Mi experiencia abarca desde el diseño de arquitecturas de datos hasta el despliegue de modelos de IA en producción.
+<!---
+- 👋 Hi there! I'm @vgvr0.
+- 👀 My interests span across artificial intelligence, data science, machine learning and sports like Padel or Football.
+- 🌱 Currently, I'm delving deep into the realms of data science, machine learning, and deep learning techniques as part of my master's program.
+- 💞️ I'm eager to collaborate on projects centered around machine learning, image recognition, natural language processing (NLP), web scraping, and any other captivating data science endeavors.
+- 📫 You can reach out to me here.
+- ⚡ Fun fact: When I'm not immersed in the world of data, you'll find me either on the field playing sports or passionately exploring the latest technologies and their diverse applications.
+--->
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,59 +44,6 @@ Soy Data Engineer especializado en soluciones de Machine Learning y MLOps. Mi ex
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSERNAME&layout=compact&theme=radical)
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
-
-<!---
-- 👋 Hi there! I'm @vgvr0.
-- 👀 My interests span across artificial intelligence, data science, machine learning and sports like Padel or Football.
-- 🌱 Currently, I'm delving deep into the realms of data science, machine learning, and deep learning techniques as part of my master's program.
-- 💞️ I'm eager to collaborate on projects centered around machine learning, image recognition, natural language processing (NLP), web scraping, and any other captivating data science endeavors.
-- 📫 You can reach out to me here.
-- ⚡ Fun fact: When I'm not immersed in the world of data, you'll find me either on the field playing sports or passionately exploring the latest technologies and their diverse applications.
---->
-
-### 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
-![LaTeX](https://img.shields.io/badge/LaTeX-20B2AA?style=for-the-badge&logo=LaTeX&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TelegramBot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-
-### 🧠 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=HuggingFace&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-1384F3?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 💾 Data Engineering & Analytics
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=Snowflake&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1C7BA5?style=for-the-badge&logo=sas&logoColor=white)
 
 
 | YouTube Video Downloader | Supermarket Mercadona Scraper | Predicting the market value |
